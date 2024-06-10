@@ -1,0 +1,5 @@
+com\atguigu\ssyx\mq\config\MQProducerAckConfig.class
+com\atguigu\ssyx\mq\config\MQConfig.class
+com\atguigu\ssyx\mq\constant\MqConst.class
+com\atguigu\ssyx\mq\service\RabbitService.class
+com\atguigu\ssyx\mq\service\RabbitService$1.class
